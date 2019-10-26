@@ -7,6 +7,5 @@ def my_collect(empty_array)
     b = b + 1 
     
   end
-  empty_array
 end
 
